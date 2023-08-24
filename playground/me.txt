@@ -1,0 +1,5 @@
+{{#user}}
+Name: Parth
+Skills: HTML, CSS, JS, Next.js
+Email: parthlunagariya3938@gmail.com
+{{/user}}
